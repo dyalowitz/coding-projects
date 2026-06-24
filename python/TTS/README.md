@@ -1,4 +1,4 @@
-#README
+# README
 
 This is for a rudimentary text-to-speech (TTS) program written in python.
 
@@ -9,14 +9,14 @@ In addition to the full program, there is also a separate file for each componen
   2. Core systhesis to file
   3. GUI shell with stubbed synthesis
 
-#Tools used:
-  1. Python
-  2. Notepad++
+# Tools used:
+  - Python
+  - Notepad++
 
-#Dependencies:
-  1. pyttsx3
+# Dependencies:
+  - pyttsx3
 
-#Instructions:
+# Instructions:
 1. Install Python - https://www.python.org/downloads/
 2. Install Notepad++ - https://notepad-plus-plus.org/downloads/
 3. Install the dependencies
