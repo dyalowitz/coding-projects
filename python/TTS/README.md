@@ -20,10 +20,10 @@ In addition to the full program, there is also a separate file for each componen
 1. Install Python - https://www.python.org/downloads/
 2. Install Notepad++ - https://notepad-plus-plus.org/downloads/
 3. Install the dependencies
-   `pip install pyttsx3` or `python -m pip install pyttsx3`
-4. Run the tests in order.
+   - `pip install pyttsx3` or `python -m pip install pyttsx3`
+5. Run the tests in order.
    - Engine-and-voices.py
    - Core-synthesis-to-file.py
    - gui-shell-with-stubbed-synthesis.py
-5. Once the tests run as intended and expected, run the full program.
+6. Once the tests run as intended and expected, run the full program.
    - tts.py
